@@ -21,30 +21,37 @@
 - anybody's  :  anypony's
 - anyone's   :  anypony's
 
-- baby*         :  foal*
-- baby-minder*  :  foalsitter*
-- boyfriend*    :  boyfriend*
-- boy*          :  colt*
-- bro fist      :  bro hoof
-- bro-fist      :  bro-hoof
-- brofist       :  brohoof
-- bro fists     :  bro hooves
-- bro-fists     :  bro-hooves
-- brofists      :  brohooves
-- butt          :  flank
-- butthurt      :  flankhurt
-- butthurt      :  saddle-sore
+- baby*           :  foal*
+- baby-minder*    :  foalsitter*
+- babysitter      :  foalsitter
+- baltimore       :  baltimare
+- boyfriend*      :  boyfriend*
+- boy*            :  colt*
+- bro fist        :  bro hoof
+- bro-fist        :  bro-hoof
+- brofist         :  brohoof
+- bro fists       :  bro hooves
+- bro-fists       :  bro-hooves
+- brofists        :  brohooves
+- businessman     :  businesspony
+- businessperson  :  businesspony
+- businesswoman   :  businesspony
+- butt            :  flank
+- butthurt        :  flankhurt
+- butthurt        :  saddle-sore
 
 - capslock    :  royal canterlot voice
 - caps lock   :  royal canterlot voice
 - chickenpox  :  ponypox
 - child*      :  foal*
 - children*   :  foals*
+- christmas   :  hearth's warming
 - cowboy*     :  cowpony*
 - cowgirl*    :  cowpony*
 
 - dammit      :  dang it
 - doctor who  :  doctor whooves
+- doctorate   :  rocktorate
 - dollar*     :  bit*
 - dr who      :  dr whooves
 - dubstep*    :  dubtrot*
@@ -118,13 +125,16 @@
 - manned up   :  ponied up
 - man-up      :  pony-up
 - manhattan*  :  manehattan*
+- manicure    :  hooficure
 - marathon*   :  mareathon*
+- matrimony   :  mare-trimony
 - men         :  stallions
 - men's       :  stallions'
 - miracle*    :  mareacle*
 - money*      :  bits*
 
 - nay*         :  neigh*
+- naysayer*    :  neighsayer*
 - nobody       :  nopony
 - nobody's     :  nopony's
 - no one       :  nopony
@@ -139,6 +149,8 @@
 
 - q&a  :  q&neigh
 
+- paper          :  scroll
+- pedicure       :  hooficure
 - pen            :  quill
 - people*        :  ponies*
 - person*        :  pony*
@@ -149,12 +161,20 @@
 - pinky swear*   :  pinkie pie swear*
 - philadelphia*  :  fillydelphia*
 
+- salesman       :  salespony
+- salesperson    :  salespony
+- saleswoman     :  salespony
 - satan          :  sombra
 - saudi arabia*  :  saddle arabia*
+- scaredy-cat    :  scaredy-pony
+- schoolboy      :  schoolpony
+- schoolgirl     :  schoolpony
 - seahorse       :  seapony
 - seahorse's     :  seapony's
 - seahorses      :  seaponies
 - seahorses'     :  seaponies'
+- showgirl       :  showpony
+- showman        :  showpony
 - snowman        :  snowpony
 - somebody       :  somepony
 - somebody's     :  somepony's
@@ -178,6 +198,7 @@
 
 - what the fuck  :  what in tarnation
 - whore          :  whorse
+- wingman        :  wingpony
 - woman          :  mare
 - woman's        :  mare's
 - women          :  mares
